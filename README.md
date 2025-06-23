@@ -52,12 +52,12 @@ The financial sector is undergoing a transformation powered by **AI and Big Data
 #### Decision Tree
 - Non-parametric supervised model
 - Recursively partitions data based on sentiment features  
-- Accuracy: **Training – 100% | Test – 99.82%**
+- Accuracy: **Training – 100% | Test – 91.82%**
 
 #### Random Forest
 - Ensemble learning method combining multiple trees
 - Handles high-dimensional, non-linear text data  
-- Accuracy: **Training – 100% | Test – 99.82%**
+- Accuracy: **Training – 100% | Test – 89.82%**
 
 ---
 
